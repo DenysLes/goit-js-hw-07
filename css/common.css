@@ -13,9 +13,9 @@ body {
     line-height: 1.5;
 }
 
-body {
-    /* margin: auto;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif; */
+body { 
+    margin: auto;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
     overflow: auto;
     background: linear-gradient(315deg,
             rgba(101, 0, 94, 1) 3%,
