@@ -43,7 +43,7 @@
     cursor: zoom-in;
 }
 
-.go-btn {
+/* .go-btn {
     width: 90px;
     height: 40px;
     color: #fff;
@@ -63,7 +63,7 @@
 
 .back-btn {
     border: none;
-    /* color: #000; */
+    color: #000;
 }
 
 .back-btn:after {
@@ -104,4 +104,4 @@
 .sl-wrapper .sl-image .sl-caption {
     background: rgba(255, 255, 255, 0.9);
     color: black;
-}
+} 

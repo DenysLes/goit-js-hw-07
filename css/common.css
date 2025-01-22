@@ -13,7 +13,7 @@ body {
     line-height: 1.5;
 }
 
-body { 
+/* body { 
     margin: auto;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
     overflow: auto;
@@ -25,9 +25,9 @@ body {
     animation: gradient 15s ease infinite;
     background-size: 400% 400%;
     background-attachment: fixed;
-}
+} */
 
-@keyframes gradient {
+/* @keyframes gradient {
     0% {
         background-position: 0% 0%;
     }
@@ -87,7 +87,7 @@ body {
     100% {
         transform: translateX(1);
     }
-}
+} */
 
 ul {
     list-style: none;
@@ -103,7 +103,7 @@ button {
     cursor: pointer;
 }
 
-.btn {
+/* .btn {
     margin: 20px;
     text-decoration: none;
 }
@@ -157,4 +157,4 @@ button {
 
 .btn-16:active {
     top: 2px;
-}
+} */
